@@ -27,7 +27,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/SameerAhmedBSCE/Portfolio-Website-Skill-Ship-Program.git
+git clone https://github.com/SameerAhmedBSCE/Portfolio-Website-Skill-Ship-Program-
 Navigate to the project directory:
 
 bash

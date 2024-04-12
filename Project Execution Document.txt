@@ -1,0 +1,58 @@
+Personal Portfolio Website - Execution Guide
+This document provides step-by-step instructions for running the Personal Portfolio Website project locally on your machine.
+
+Prerequisites
+Before running the project, ensure you have the following software installed on your system:
+
+Web browser (e.g., Google Chrome, Mozilla Firefox)
+Text editor or Integrated Development Environment (IDE) for code editing (e.g., Visual Studio Code, Sublime Text)
+Steps to Run the Project
+Clone the Repository:
+
+Open your command-line interface (CLI) or terminal and execute the following command to clone the project repository:
+
+
+git clone https://github.com/SameerAhmedBSCE/Portfolio-Website-Skill-Ship-Program-
+
+
+Navigate to the Project Directory:
+
+Once the cloning process is complete, navigate to the project directory using the cd command:
+
+cd Portfolio-Website-Skill-Ship-Program
+Open the Project Files:
+
+Open the project directory in your preferred text editor or IDE. You can use Visual Studio Code, Sublime Text, or any other editor of your choice.
+
+Run the Project Locally:
+
+Open the index.html file from the project directory in your web browser. You can do this by either:
+
+Double-clicking on the index.html file and it will automatically open in your default web browser.
+Right-clicking on the index.html file, selecting "Open with," and choosing your preferred web browser.
+Explore the Website:
+
+Once the website opens in your web browser, you can navigate through different sections using the fixed navigation bar. Explore the Home, About, Service, and Contact sections to understand the content and functionality of each.
+
+Customize the Content (Optional):
+
+If you wish to customize the content, such as replacing images or updating text, you can do so by modifying the HTML and CSS files in the project directory. Make the desired changes using your text editor or IDE and save the files.
+
+Modify Stylesheet (Optional):
+
+To change the design and layout of the website, you can modify the style.css file in the project directory. Adjust the CSS properties as needed to achieve the desired look and feel.
+
+Connect Social Media Profiles (Optional):
+
+If you want to link your social media profiles, open the HTML file(s) where social media icons are located (e.g., index.html, footer.html) and update the href attribute of each <a> tag with your social media profile URLs.
+
+Test Responsiveness (Optional):
+
+Resize your browser window or open the website on different devices (e.g., smartphone, tablet) to ensure responsiveness. The website should adapt its layout and design to different screen sizes.
+
+Deploy the Website (Optional):
+
+If you want to make your website accessible online, you can deploy it to a web hosting service. Upload the project files to the hosting server using FTP or follow the deployment instructions provided by your hosting provider.
+
+Congratulations! You have successfully run the Personal Portfolio Website project locally on your machine. Feel free to customize it further to suit your preferences and showcase your skills effectively.
+
